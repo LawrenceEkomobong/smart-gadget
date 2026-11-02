@@ -1,0 +1,6 @@
+{
+  "name": "SmartGadgets",
+  "description": "Product showcase and business website for SmartGadgets, offering digital and household electronics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
